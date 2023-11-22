@@ -1,5 +1,5 @@
-# gcp_ml_engineer_path
-This repo is meant to be used as a digital source of information regarding the GCP Profesional Machine Learning Engineer Certification.
+# GCP Professional Machine Learning Engineer Certification
+This repo is meant to be used as a digital source of information regarding the GCP Professional Machine Learning Engineer Certification.
 
 What are trhe contents?
 
